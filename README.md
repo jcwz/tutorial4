@@ -1,3 +1,3 @@
-# Tutorial 4 - Daniel Juchnowicz - 11102883
+# Tutorial 4
 
 This is a test project used for Tutorial 4

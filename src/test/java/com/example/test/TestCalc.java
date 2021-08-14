@@ -15,4 +15,11 @@ public class TestCalc {
         assertEquals(3, Calc.add(1,2));
 
     }
+
+    @Test
+    public void testCalcSubtract() {
+
+        assertEquals(2, Calc.subtract(4,2));
+
+    }
 }
